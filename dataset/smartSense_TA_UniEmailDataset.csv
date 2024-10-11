@@ -1,0 +1,121 @@
+Email_ID,Sender_Name,Sender_Type,Subject,Email_Body,Category,Response_Action,Sensitivity_Level,Requires_HOD_Intervention,Auto_Response
+1,John Doe,Student,Request for Syllabus,"""Can you please send me the syllabus for course XYZ?""",Student Inquiries,Fetch syllabus,Low,No,Yes
+2,Jane Smith,Corporate,Internship Opportunities,"""We are interested in offering internships to your students.""",Corporate Inquiries,Escalate to HOD,High,Yes,No
+3,Dr. Liu,Researcher,Request for Research Data,"""I need access to shared research data on topic ABC for collaboration.""",Academic Collaboration Inquiries,Provide access details,Medium,No,Yes
+4,Mike Johnson,Corporate,Partnership Legal Matters,"""We need to discuss legal agreements regarding our upcoming partnership.""",Corporate Inquiries,Escalate to HOD,High,Yes,No
+5,Sarah Lee,Student,Course Material Access,"""Where can I find the course material for class DEF?""",Student Inquiries,Provide material link,Low,No,Yes
+6,Prof. Kumar,Researcher,Facility Collaboration,"""I would like to inquire about using your research facilities for my project.""",Academic Collaboration Inquiries,Escalate to HOD,Medium,Yes,No
+7,David Patel,Student,Query on Final Exam Schedule,"""When are the final exams scheduled for this semester?""",Student Inquiries,Provide exam schedule,Low,No,Yes
+8,Alice Thompson,Corporate,Placement Collaboration,"""We are looking to hire graduates from your department for placements.""",Corporate Inquiries,Escalate to HOD,High,Yes,No
+9,Dr. Akira Tanaka,Researcher,Data Sharing Request,"""Can I get access to the dataset related to renewable energy research?""",Academic Collaboration Inquiries,Provide access details,Medium,No,Yes
+10,Emily Wong,Student,Query on Research Opportunities,"""Are there any research opportunities available in the AI department?""",Student Inquiries,Provide research info,Low,No,Yes
+11,Bob Roberts,Corporate,Guest Lecture Proposal,"""We would like to offer a guest lecture on sustainable technologies.""",Corporate Inquiries,Escalate to HOD,Medium,Yes,No
+12,Prof. Elena Ruiz,Researcher,Lab Access for Joint Research,"""I need access to your laboratory facilities for our joint research project.""",Academic Collaboration Inquiries,Escalate to HOD,Medium,Yes,No
+13,Mark Evans,Student,Scholarship Information,"""How can I apply for scholarships in this academic year?""",Student Inquiries,Provide scholarship info,Low,No,Yes
+14,Steve Carter,Corporate,Sponsorship Request,"""We would like to sponsor your research on AI and machine learning.""",Corporate Inquiries,Escalate to HOD,High,Yes,No
+15,Priya Ramesh,Student,Enrollment Procedure Query,"""Can you guide me through the enrollment procedure for next semester?""",Student Inquiries,Provide enrollment info,Low,No,Yes
+16,Prof. Daniel Cooper,Researcher,Request for Conference Details,"""I need information regarding the AI research conference next month.""",Academic Collaboration Inquiries,Provide conference info,Medium,No,Yes
+17,Rebecca Green,Corporate,Internship Collaboration,"""We are interested in collaborating for internship placements.""",Corporate Inquiries,Escalate to HOD,High,Yes,No
+18,Anjali Mehta,Student,Clarification on Assignment,"""Can you clarify the requirements for the latest programming assignment?""",Student Inquiries,Provide assignment clarification,Low,No,Yes
+19,Dr. Susan Lee,Researcher,Inquiry on Research Grants,"""Can I get details on research grants available for renewable energy studies?""",Academic Collaboration Inquiries,Provide grant info,Medium,No,Yes
+20,Jason Taylor,Corporate,Request for Collaboration,"""We are looking to collaborate on research related to AI-driven automation.""",Corporate Inquiries,Escalate to HOD,High,Yes,No
+21,Lisa White,Student,Request for Exam Results,"""Can you send me the results for the recently concluded semester exams?""",Student Inquiries,Provide exam results,Low,No,Yes
+22,Dr. Matthew Smith,Researcher,Equipment Sharing Inquiry,"""Can I borrow equipment from your lab for a research project?""",Academic Collaboration Inquiries,Escalate to HOD,Medium,Yes,No
+23,Michael Bains,Corporate,Seminar Sponsorship Proposal,"""We would like to sponsor a seminar on data-driven AI research.""",Corporate Inquiries,Escalate to HOD,High,Yes,No
+24,Karen Lopez,Student,Research Internship Request,"""I am interested in research internships in the AI department.""",Student Inquiries,Provide internship details,Low,No,Yes
+25,Prof. Julia Adams,Researcher,Collaboration on AI Research,"""I would like to discuss collaborating on AI research with your department.""",Academic Collaboration Inquiries,Escalate to HOD,Medium,Yes,No
+26,Ryan Clark,Corporate,Product Development Partnership,"""We are interested in collaborating on AI-based product development.""",Corporate Inquiries,Escalate to HOD,High,Yes,No
+27,Olivia Turner,Student,Request for Research Paper,"""Can I get a copy of the research paper on AI automation?""",Student Inquiries,Provide research paper,Low,No,Yes
+28,Dr. Nancy Young,Researcher,Inquiry on Research Symposium,"""I need details regarding the upcoming research symposium on AI.""",Academic Collaboration Inquiries,Provide symposium details,Medium,No,Yes
+29,Richard Hughes,Corporate,Internship Placement Program,"""We are looking to set up an internship placement program with your department.""",Corporate Inquiries,Escalate to HOD,High,Yes,No
+30,Megan Wilson,Student,Request for Course Extension,"""Can I get an extension for submitting my course project?""",Student Inquiries,Provide extension details,Low,No,Yes
+31,Paul King,Student,Request for Project Guidelines,"""Can you provide the guidelines for the upcoming project in class GHI?""",Student Inquiries,Provide project guidelines,Low,No,Yes
+32,Lisa Campbell,Corporate,Workshop Collaboration,"""We would like to collaborate on a workshop for your students.""",Corporate Inquiries,Escalate to HOD,Medium,Yes,No
+33,Thomas Brown,Researcher,Data Access Inquiry,"""Could you help me access the dataset for my ongoing research on climate change?""",Academic Collaboration Inquiries,Provide access details,Medium,No,Yes
+34,Rachel Green,Student,Feedback on Course,"""I would like to provide feedback on the recent course I attended.""",Student Inquiries,Provide feedback procedure,Low,No,Yes
+35,David White,Corporate,Research Grant Partnership,"""We are interested in forming a partnership for a research grant proposal.""",Corporate Inquiries,Escalate to HOD,High,Yes,No
+36,Mark Johnson,Researcher,Equipment Request,"""Can I request equipment for my research project this semester?""",Academic Collaboration Inquiries,Escalate to HOD,Medium,Yes,No
+37,Emma Carter,Student,Academic Advisor Inquiry,"""Who is my academic advisor for this semester?""",Student Inquiries,Provide advisor details,Low,No,Yes
+38,John Smith,Corporate,Technology Partnership Proposal,"""We would like to propose a partnership involving technology exchange.""",Corporate Inquiries,Escalate to HOD,High,Yes,No
+39,Sophia Brown,Researcher,Funding Inquiry,"""Can you provide information on available funding for my research project?""",Academic Collaboration Inquiries,Provide funding info,Medium,No,Yes
+40,Alice Johnson,Student,Class Attendance Query,"""What is the attendance policy for the upcoming semester?""",Student Inquiries,Provide attendance details,Low,No,Yes
+41,Michael Davis,Corporate,Product Development Discussion,"""We need to discuss potential product development ideas with your department.""",Corporate Inquiries,Escalate to HOD,High,Yes,No
+42,Olivia Martin,Researcher,Collaboration Proposal,"""I would like to propose a collaboration on a project related to renewable energy.""",Academic Collaboration Inquiries,Escalate to HOD,Medium,Yes,No
+43,Ethan Lee,Student,Request for Study Resources,"""Can you share study resources for the final exams?""",Student Inquiries,Provide study resources,Low,No,Yes
+44,Isabella Young,Corporate,Industry-Academia Partnership,"""We are interested in establishing an industry-academia partnership for mutual benefits.""",Corporate Inquiries,Escalate to HOD,High,Yes,No
+45,Benjamin Hall,Researcher,Inquiry on Shared Resources,"""Can you provide details on shared resources available for researchers?""",Academic Collaboration Inquiries,Provide resources info,Medium,No,Yes
+46,Ava Wright,Student,Query on Career Counseling,"""How can I schedule an appointment with a career counselor?""",Student Inquiries,Provide counseling details,Low,No,Yes
+47,Christopher Lewis,Corporate,Internship Collaboration Inquiry,"""We would like to discuss internship opportunities for your students.""",Corporate Inquiries,Escalate to HOD,High,Yes,No
+48,Hannah Baker,Researcher,Data Analysis Request,"""Could you assist with data analysis for my ongoing research?""",Academic Collaboration Inquiries,Provide analysis info,Medium,No,Yes
+49,Matthew Turner,Student,Query on Class Prerequisites,"""What are the prerequisites for enrolling in class JKL?""",Student Inquiries,Provide prerequisite details,Low,No,Yes
+50,Grace King,Corporate,Corporate Training Proposal,"""We would like to offer corporate training sessions for your faculty.""",Corporate Inquiries,Escalate to HOD,Medium,Yes,No
+51,Daniel Wilson,Researcher,Equipment Usage Inquiry,"""Can I use the laboratory equipment for my research project?""",Academic Collaboration Inquiries,Escalate to HOD,Medium,Yes,No
+52,Mia Robinson,Student,Clarification on Grades,"""Can you clarify how the grades are calculated?""",Student Inquiries,Provide grading info,Low,No,Yes
+53,James Johnson,Corporate,Job Placement Inquiry,"""We are looking for graduates to fill positions in our company.""",Corporate Inquiries,Escalate to HOD,High,Yes,No
+54,Ella White,Researcher,Conference Participation Inquiry,"""Could you help me with details on participating in the upcoming conference?""",Academic Collaboration Inquiries,Provide conference details,Medium,No,Yes
+55,Benjamin Green,Student,Course Feedback Submission,"""I would like to submit feedback regarding the course I attended.""",Student Inquiries,Provide feedback submission info,Low,No,Yes
+56,Samuel Walker,Corporate,Research Sponsorship Proposal,"""We are interested in sponsoring your research activities.""",Corporate Inquiries,Escalate to HOD,High,Yes,No
+57,Chloe Brown,Researcher,Collaboration Inquiry,"""I would like to discuss a potential collaboration for my research.""",Academic Collaboration Inquiries,Escalate to HOD,Medium,Yes,No
+58,Lucas Taylor,Student,Query on Course Registration,"""How do I register for courses for next semester?""",Student Inquiries,Provide registration info,Low,No,Yes
+59,Ella Carter,Corporate,Internship Program Inquiry,"""We are interested in setting up an internship program for your students.""",Corporate Inquiries,Escalate to HOD,High,Yes,No
+60,Ava Lewis,Researcher,Request for Lab Access,"""Can I get access to the lab for my project work?""",Academic Collaboration Inquiries,Escalate to HOD,Medium,Yes,No
+61,Aiden Wright,Student,Request for Academic Calendar,"""Can you provide the academic calendar for this year?""",Student Inquiries,Provide calendar info,Low,No,Yes
+62,Ella Young,Corporate,Job Fair Participation Inquiry,"""We would like to participate in the upcoming job fair at your university.""",Corporate Inquiries,Escalate to HOD,High,Yes,No
+63,Noah Hall,Researcher,Data Sharing Inquiry,"""Can you provide access to the data from your recent research?""",Academic Collaboration Inquiries,Provide data access details,Medium,No,Yes
+64,Lily King,Student,Course Withdrawal Inquiry,"""What is the procedure to withdraw from a course?""",Student Inquiries,Provide withdrawal procedure,Low,No,Yes
+65,Jacob Turner,Corporate,Seminar Collaboration Proposal,"""We would like to collaborate on a seminar focusing on AI and machine learning.""",Corporate Inquiries,Escalate to HOD,High,Yes,No
+66,Mia White,Researcher,Inquiry on Research Symposium,"""Can you provide details about the upcoming research symposium?""",Academic Collaboration Inquiries,Provide symposium details,Medium,No,Yes
+67,William Johnson,Student,Question about Attendance Policy,"""What is the attendance policy for online classes?""",Student Inquiries,Provide attendance details,Low,No,Yes
+68,Scarlett Lee,Corporate,Industry Partnership Discussion,"""We would like to discuss a potential partnership with your department.""",Corporate Inquiries,Escalate to HOD,High,Yes,No
+69,Evelyn Brown,Researcher,Request for Research Collaboration,"""I am interested in collaborating on a research project related to AI.""",Academic Collaboration Inquiries,Escalate to HOD,Medium,Yes,No
+70,Matthew Martin,Student,Query about Class Assignments,"""Can you provide information about the assignments for class MNO?""",Student Inquiries,Provide assignment details,Low,No,Yes
+71,Olivia Jones,Corporate,Funding Inquiry,"""We would like to discuss potential funding opportunities for your research.""",Corporate Inquiries,Escalate to HOD,High,Yes,No
+72,Ethan White,Researcher,Collaboration Opportunity,"""I would like to propose a collaboration for my research on machine learning.""",Academic Collaboration Inquiries,Escalate to HOD,Medium,Yes,No
+73,Chloe Martin,Student,Course Materials Request,"""Can you send me the materials for the course I am enrolled in?""",Student Inquiries,Provide materials,Low,No,Yes
+74,Lucas Lewis,Corporate,Proposal for Sponsored Research,"""We would like to sponsor your upcoming research project.""",Corporate Inquiries,Escalate to HOD,High,Yes,No
+75,Sofia Smith,Researcher,Inquiry on Equipment Availability,"""Can I check the availability of equipment for my project?""",Academic Collaboration Inquiries,Provide equipment availability,Medium,No,Yes
+76,James Taylor,Student,Clarification on Internship Process,"""Can you clarify the internship application process?""",Student Inquiries,Provide internship details,Low,No,Yes
+77,Hannah Davis,Corporate,Job Placement Inquiry,"""We are interested in hiring graduates from your department.""",Corporate Inquiries,Escalate to HOD,High,Yes,No
+78,Grace Brown,Researcher,Request for Access to Data,"""Can I get access to the dataset related to my research project?""",Academic Collaboration Inquiries,Provide data access info,Medium,No,Yes
+79,Daniel Johnson,Student,Inquiry on Final Project Guidelines,"""What are the guidelines for the final project in class PQR?""",Student Inquiries,Provide project guidelines,Low,No,Yes
+80,Isabella Lewis,Corporate,Collaboration on Research,"""We would like to collaborate on research projects in AI.""",Corporate Inquiries,Escalate to HOD,High,Yes,No
+81,Elijah Hall,Researcher,Inquiry on Joint Research,"""I would like to discuss a joint research project on environmental sustainability.""",Academic Collaboration Inquiries,Escalate to HOD,Medium,Yes,No
+82,Mia Wilson,Student,Feedback on Class,"""I would like to give feedback regarding my experience in class STU.""",Student Inquiries,Provide feedback procedure,Low,No,Yes
+83,Alexander Young,Corporate,Job Fair Participation Inquiry,"""We would like to participate in your university's job fair.""",Corporate Inquiries,Escalate to HOD,High,Yes,No
+84,Amelia Taylor,Researcher,Inquiry on Funding Opportunities,"""Could you provide information on funding opportunities for my research?""",Academic Collaboration Inquiries,Provide funding info,Medium,No,Yes
+85,Lucas Green,Student,Clarification on Class Schedule,"""Can you provide clarification on the class schedule for this semester?""",Student Inquiries,Provide schedule details,Low,No,Yes
+86,Ella Robinson,Corporate,Internship Program Inquiry,"""We would like to discuss potential internship programs with your students.""",Corporate Inquiries,Escalate to HOD,High,Yes,No
+87,Liam Johnson,Researcher,Inquiry on Research Facilities,"""Can I access your research facilities for my project?""",Academic Collaboration Inquiries,Escalate to HOD,Medium,Yes,No
+88,Ava Lee,Student,Request for Academic Support,"""Can you provide information on academic support services?""",Student Inquiries,Provide support details,Low,No,Yes
+89,Benjamin Smith,Corporate,Request for Guest Lecture,"""We would like to offer a guest lecture on emerging technologies.""",Corporate Inquiries,Escalate to HOD,Medium,Yes,No
+90,Lily Taylor,Researcher,Collaboration Inquiry,"""I am interested in collaborating on research related to AI applications.""",Academic Collaboration Inquiries,Escalate to HOD,Medium,Yes,No
+91,Oliver Brown,Student,Query on Scholarship Opportunities,"""What scholarships are available for undergraduate students?""",Student Inquiries,Provide scholarship details,Low,No,Yes
+92,Ava Johnson,Corporate,Proposal for Research Collaboration,"""We would like to collaborate on a research project focusing on data science.""",Corporate Inquiries,Escalate to HOD,High,Yes,No
+93,Ethan Martin,Researcher,Inquiry on Research Partnerships,"""I would like to explore potential partnerships for my research project.""",Academic Collaboration Inquiries,Escalate to HOD,Medium,Yes,No
+94,Grace White,Student,Request for Course Schedule,"""Can you send me the course schedule for the upcoming semester?""",Student Inquiries,Provide schedule info,Low,No,Yes
+95,James Wilson,Corporate,Inquiry on Career Fair,"""We would like to inquire about participating in your upcoming career fair.""",Corporate Inquiries,Escalate to HOD,High,Yes,No
+96,Chloe Green,Researcher,Inquiry on Lab Access,"""Can I get access to your laboratory for my research?""",Academic Collaboration Inquiries,Escalate to HOD,Medium,Yes,No
+97,Michael Lee,Student,Request for Feedback,"""Can you provide a platform for giving feedback on courses?""",Student Inquiries,Provide feedback procedure,Low,No,Yes
+98,Lily Hall,Corporate,Inquiry on Sponsorship,"""We are interested in sponsoring an event at your university.""",Corporate Inquiries,Escalate to HOD,High,Yes,No
+99,Benjamin Taylor,Researcher,Inquiry on Research Funding,"""Could you help me with details on funding opportunities for my project?""",Academic Collaboration Inquiries,Provide funding info,Medium,No,Yes
+100,Sophia White,Student,Clarification on Major Requirements,"""What are the requirements for declaring a major?""",Student Inquiries,Provide major requirements info,Low,No,Yes
+101,Ethan Clark,Corporate,Job Placement Inquiry,"""We are looking to place interns from your department.""",Corporate Inquiries,Escalate to HOD,High,Yes,No
+102,Mia Young,Researcher,Inquiry on Collaborative Research,"""I would like to propose a collaborative research project on machine learning.""",Academic Collaboration Inquiries,Escalate to HOD,Medium,Yes,No
+103,Lucas Martin,Student,Request for Thesis Guidelines,"""Can you provide the guidelines for writing a thesis?""",Student Inquiries,Provide thesis guidelines,Low,No,Yes
+104,Ella King,Corporate,Request for Research Collaboration,"""We are interested in collaborating on a research project in AI.""",Corporate Inquiries,Escalate to HOD,High,Yes,No
+105,Daniel Johnson,Researcher,Inquiry on Equipment Availability,"""Can you check if equipment is available for my upcoming project?""",Academic Collaboration Inquiries,Provide equipment availability,Medium,No,Yes
+106,Olivia Taylor,Student,Request for Degree Requirements,"""What are the requirements to obtain a degree in this program?""",Student Inquiries,Provide degree requirements info,Low,No,Yes
+107,Jacob Wilson,Corporate,Request for Internship Opportunities,"""We are interested in offering internships for your students.""",Corporate Inquiries,Escalate to HOD,High,Yes,No
+108,Ava Robinson,Researcher,Inquiry on Academic Partnerships,"""I would like to discuss potential academic partnerships for research.""",Academic Collaboration Inquiries,Escalate to HOD,Medium,Yes,No
+109,Mia Green,Student,Request for Class Notes,"""Can you provide notes from the last class?""",Student Inquiries,Provide class notes,Low,No,Yes
+110,Liam Brown,Corporate,Proposal for Collaborative Research,"""We would like to propose a collaborative research project focusing on sustainability.""",Corporate Inquiries,Escalate to HOD,High,Yes,No
+111,Isabella Hall,Researcher,Inquiry on Conference Participation,"""Can you provide details on participating in the upcoming AI conference?""",Academic Collaboration Inquiries,Provide conference details,Medium,No,Yes
+112,Samuel Lewis,Student,Clarification on Attendance Policy,"""What is the attendance policy for this semester?""",Student Inquiries,Provide attendance policy,Low,No,Yes
+113,Charlotte Taylor,Corporate,Request for Job Fair Participation,"""We are interested in participating in your job fair.""",Corporate Inquiries,Escalate to HOD,High,Yes,No
+114,Benjamin Young,Researcher,Inquiry on Research Grants,"""Can I get information on available research grants?""",Academic Collaboration Inquiries,Provide grant info,Medium,No,Yes
+115,Ella Robinson,Student,Request for Course Evaluation,"""Can you provide the course evaluation form?""",Student Inquiries,Provide evaluation form,Low,No,Yes
+116,Noah Smith,Corporate,Proposal for Research Sponsorship,"""We would like to sponsor your research initiatives.""",Corporate Inquiries,Escalate to HOD,High,Yes,No
+117,Grace Johnson,Researcher,Inquiry on Data Sharing,"""Can we discuss sharing data for our collaborative research?""",Academic Collaboration Inquiries,Escalate to HOD,Medium,Yes,No
+118,James Lee,Student,Clarification on Academic Policies,"""What are the academic policies regarding plagiarism?""",Student Inquiries,Provide academic policies info,Low,No,Yes
+119,Mia White,Corporate,Job Placement Program Inquiry,"""We are looking to establish a job placement program with your department.""",Corporate Inquiries,Escalate to HOD,High,Yes,No
+120,Lily Taylor,Researcher,Inquiry on Research Symposium,"""Can you provide details on the upcoming research symposium?""",Academic Collaboration Inquiries,Provide symposium details,Medium,No,Yes
