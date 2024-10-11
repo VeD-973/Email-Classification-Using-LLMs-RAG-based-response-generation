@@ -54,3 +54,22 @@ Ensure that you have Python installed on your machine. You can install the requi
 
 ```bash
 pip install datasets sentence_transformers PyMuPDF PDFReader pdfplumber faiss-cpu --no-cache langchain pypdf langchain-community streamlit huggingface_hub gradio -U
+```
+
+## How to Run the Application
+
+## 1. Pull the Docker Image from Docker Hub
+
+The Docker image anishkarnik/email_classifier_gradio_app:v1 is already built and pushed to Docker Hub. You can pull the image directly using the following command:
+
+#### Note: I have pushed the image on my friend's docker because my docker had some issues
+
+```
+bash
+docker pull anishkarnik/smartsense_ta:v1
+
+docker run -e HUGGINGFACEHUB_API_TOKEN=<your-token> -p 7860:7860 
+anishkarnik/smartsense_ta:v1
+
+http://localhost:7860
+```
