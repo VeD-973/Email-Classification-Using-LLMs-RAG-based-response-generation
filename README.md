@@ -1,24 +1,41 @@
-Email Classification and Automated Response System
-Project Overview
-This project is designed to fine-tune a pre-trained large language model (LLM) for classifying university emails and generating automated responses. The system classifies incoming emails into predefined categories such as student inquiries, academic collaborations, and corporate queries. Depending on the category, the system either generates a helpful response using a Retrieval-Augmented Generation (RAG) approach or escalates the email for manual review.
+# SmartSense - Email Classification and Response System
 
-The system is built using a combination of several technologies:
+## Overview
 
-Hugging Face Models for classification and text generation.
-FAISS for similarity-based document retrieval.
-LSTM for email classification.
-Gradio for creating an intuitive user interface.
-Features
-Email Classification: The model classifies emails into 3 categories:
-Student Inquiries
-Academic Collaboration Inquiries
-Corporate Enquiries
-RAG-Enabled Responses: For specific categories, the system generates automated responses using LLMs and knowledge retrieval.
-Gradio Interface: A user-friendly interface that allows users to input email queries and get a classification and response.
-PDF Text Extraction: Text can be extracted from PDF documents for processing and response generation.
-Installation
-Prerequisites
-Python 3.7+
-GPU (Optional but recommended for faster response generation)
-Required Libraries
-You can install the required dependencies by running the following command:
+This project implements an **AI-based system** to categorize and respond to university emails. The system uses **fine-tuned language models (LLMs)** for email classification into three categories:
+
+- Student Inquiries
+- Academic Collaboration Inquiries
+- Corporate Inquiries
+
+Based on the category, it provides either an automated response (using **Retrieval-Augmented Generation (RAG)**) or escalates the email to the Head of Department (HOD) for manual action.
+
+---
+
+## Key Features
+
+1. **Email Classification using Fine-tuned LLMs (OPT-350M)**:
+    - Emails are classified into the three predefined categories using a fine-tuned version of Facebook's OPT model.
+  
+2. **Stacked LSTM Neural Network for Classification**:
+    - An additional **Stacked LSTM model** is trained to classify emails, which allows for accurate categorization based on email body content.
+
+3. **Retrieval-Augmented Generation (RAG)**:
+    - **RAG** is used with **LLama-3.2-1B** for generating automated responses to student and academic inquiries.
+  
+4. **Document Search with FAISS**:
+    - A **FAISS-based** similarity search helps in retrieving relevant information from large documents, enabling the system to provide accurate and relevant automated responses.
+
+5. **Interactive Gradio UI**:
+    - A **Gradio-based interface** is provided for users to input email queries, classify them, and generate automated responses.
+
+---
+
+## Installation
+
+### Prerequisites
+
+Ensure that you have Python installed on your machine. You can install the required dependencies by running the following command:
+
+```bash
+pip install datasets sentence_transformers PyMuPDF PDFReader pdfplumber faiss-cpu --no-cache langchain pypdf langchain-community streamlit huggingface_hub gradio -U
