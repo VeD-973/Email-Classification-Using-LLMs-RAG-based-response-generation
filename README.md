@@ -1,16 +1,14 @@
-# SmartSense - Email Classification and Response System
+# Technical Assessment - Email Classification and Response System
+## Project Overview
 
-## Overview
+This project involves the development of an **AI-driven system** designed to categorize and respond to university emails. It leverages **fine-tuned language models (LLMs)** to classify incoming emails into three main categories:
 
-This project implements an **AI-based system** to categorize and respond to university emails. The system uses **fine-tuned language models (LLMs)** for email classification into three categories:
-
-- Student Inquiries
-- Academic Collaboration Inquiries
+- Student Queries
+- Academic Collaboration Requests
 - Corporate Inquiries
 
-Based on the category, it provides either an automated response (using **Retrieval-Augmented Generation (RAG)**) or escalates the email to the Head of Department (HOD) for manual action.
+Depending on the classification, the system either generates an automatic response using **Retrieval-Augmented Generation (RAG)** or escalates the email to the Head of Department (HOD) for further review and manual response.
 
----
 
 ## Key Features
 
@@ -25,6 +23,9 @@ Based on the category, it provides either an automated response (using **Retriev
   
 4. **Document Search with FAISS**:
     - A **FAISS-based** similarity search helps in retrieving relevant information from large documents, enabling the system to provide accurate and relevant automated responses.
+    - The automated responses are divided into two types:
+          - Actual response from the RAG using LLMs for student inquiries and academic enquiries if they are present in the database of the university.
+          - Hardcoded response for Corporate level Inquiries. 
 
 5. **Interactive Gradio UI**:
     - A **Gradio-based interface** is provided for users to input email queries, classify them, and generate automated responses.
