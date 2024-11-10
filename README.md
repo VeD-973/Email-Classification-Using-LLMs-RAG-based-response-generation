@@ -1,4 +1,4 @@
-# Technical Assessment - Email Classification and Response System
+Email Classification and Response System
 ## Project Overview
 
 This project involves the development of an **AI-driven system** designed to categorize and respond to university emails. It leverages **fine-tuned language models (LLMs)** to classify incoming emails into three main categories:
